@@ -1,0 +1,4 @@
+PORT=27017
+[Mongo]
+URL = "mongodb+srv://danieo@todo-cluster.gumw7vx.mongodb.net/myFirstDatabase?appName=mongosh+1.7.1"
+DBName = "todoapp"
